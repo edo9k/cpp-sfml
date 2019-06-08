@@ -1,0 +1,6 @@
+# compile 
+g++ -c program.cpp
+
+# link
+g++ program.o -o program -lsfml-graphics -lsfml-window -lsfml-system
+
