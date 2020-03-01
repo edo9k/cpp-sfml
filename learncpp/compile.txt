@@ -1,0 +1,1 @@
+g++ -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++17 -o file file.cpp
